@@ -1,4 +1,4 @@
-package leetcode;
+package saima;
 
 import java.util.Scanner;
 
