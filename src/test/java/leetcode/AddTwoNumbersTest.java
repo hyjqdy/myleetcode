@@ -1,6 +1,5 @@
 package leetcode;
 
-import leetcode.AddTwoNumbers;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
